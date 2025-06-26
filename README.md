@@ -102,13 +102,3 @@ Each section includes personal observations and configuration insights based on 
 * Secrets and credentials should be managed with Docker Secrets or .env files.
 
 ---
-
-## 📄 License
-
-This project is submitted as part of a DevOps assessment and is not intended for production use.
-
----
-
-## 🤝 Contributors
-
-* [Your Name](https://github.com/muhirwaJD)
